@@ -1,0 +1,49 @@
+Errata for "Scientific Inference: Learning from Data" by Simon Vaughan (CUP 2013)
+
+CORRECTIONS
+
+Chapter 3
+
++p54: eqn 3.10, replace S with SSE for consistency with the notation of eqn 3.9.
+
+Chapter 4
+
++p67: In box 4.1 it should read "The complement" (not "The compliment")
++p76: There is a missing word "a" in first line of text in the grey box. It should read "of drawing a card..."
++p82: After the first equation the line should read "a double trigger is much more..." (the "is" was missing)
++p85: footnote 6: The words "open" and "closed" should be transposed, i.e. "a closed interval, one that includes its endpoints" and "an open interval, one that does not include its endpoints." (thanks to Bob Hayden for spotting this)
+
+Chapter 5
+
++p98: paragraph before eqn 5.16, 3rd line - should be "sigma_{xy}" (without the ^2) for the covariance symbol. 
++p112: R.box 5.8: should read "Let's generate 5000 random numbers..."
++p113: paragraph following box 5.9 it should read "degrees of freedom", not "degrees for freedom" (two instances)
++114, +116:  Captions for Figs 5.6, 5.7. The right panels are "cdfs" not "cmfs".
++p116: In final line of section 5.3.4 the expectation of the uniform distribution should be "E[X] = (b+a)/2" (thanks to Samia Drappeau for spotting this). The reader may wish to derive this result. It is stated correctly in the Chapter summary.
++p121: top line: should be "sigma_{xy}" (without the ^2) for the covariance symbol. 
+
+Chapter 7
+
++p152: line 4: "constant value" (not "constant values")
++p159: footnote 3: delete one "lower"
++p165: bottom paragraph - no need for apostrophe in "Reynolds' data". 
+
+Chapter 8
+
++p179: R.box 8.8: the 5th line of code should say "par = parm.0" not "parm = parm.0" (thanks to Anthony Willis for spotting this)
+
+
+CLARIFICATIONS
+
++p4: box 1.1. A more careful explanation of the proof would say in bullet point 5 "Therefore q is either prime or it is a composite of primes not in the list (the Fundamental..." then bullet points 6 would say "Either way we have found a prime larger than any in the list, in contradiction..." (thanks to Bob Hayden for spotting this)
++p145: It would be more conventional to say, after eqn 7.1, that "1-p is sometimes called the confidence level" (thanks to Bob Hayden for spotting this)
+
+
+A NOTE ON CONVENTIONS
+
+I have generally followed the recommendations of Halperin et al. (1965, "Recommended Standards for Statistical Symbols and Notation"). Where I have done otherwise it is with the intention of making the text easier to follow for science students.
+
+Simon Vaughan
+
+Last updated: 14 Dec 2016
+Original form: 11 March 2014
