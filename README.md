@@ -22,6 +22,6 @@ Over the last few years a few keen readers and students have spotted the occasio
 * [Blackwells](https://bookshop.blackwell.co.uk/bookshop/product/Scientific-Inference-by-Simon-Vaughan/9781107607590)
 * [Amazon UK](http://www.amazon.co.uk/Scientific-Inference-Learning-Simon-Vaughan/dp/1107607590/) or [Amazon US](http://www.amazon.com/Scientific-Inference-Learning-Simon-Vaughan/dp/110702482X/)
 
-** Blurb
+## Blurb
 
 Providing the knowledge and practical experience to begin analysing scientific data, this book is ideal for physical sciences students wishing to improve their data handling skills. The book focuses on explaining and developing the practice and understanding of basic statistical analysis, concentrating on a few core ideas, such as the visual display of information, modelling using the likelihood function, and simulating random data. Key concepts are developed through a combination of graphical explanations, worked examples, example computer code and case studies using real data. Students will develop an understanding of the ideas behind statistical methods and gain experience in applying them in practice. 
