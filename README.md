@@ -14,7 +14,7 @@ There is a set of exercises to go along with the book. Download the [PDF here](d
 
 ## Errata
 
-Over the last few years a few keen readers and students have spotted the occasional error. Here is the latest [list of errors](docs/errata.txt). If you notice any more, please do email me. 
+Keen readers and students have spotted the occasional error. Here is the latest [list of errors](docs/errata.txt). If you notice any more, please do email me. 
 
 ## Available from
 
