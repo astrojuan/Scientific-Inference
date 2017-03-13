@@ -30,4 +30,4 @@ Providing the knowledge and practical experience to begin analysing scientific d
 
 _"a well-written compact calculus-based introductory statistics and data analysis textbook... should be read by anyone with a calculus background wanting a brief, but good, introduction to statistics."_ - D. Bellhouse (2014; The American Statistician, 68:4, 307)
 
-_"the presentation of known topics happens in an imaginative way... provides innovative and intelligent comments and connecting elements"_ - N. E. Myridis (2014, Contemporary Physics, 55:3, 339
+_"the presentation of known topics happens in an imaginative way... provides innovative and intelligent comments and connecting elements"_ - N. E. Myridis (2014, Contemporary Physics, 55:3, 339)
